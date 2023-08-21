@@ -8,7 +8,7 @@ object **MARCELO** {
  val acknowledgements = "JAVA"
  val city = "MARAGOGI"
  
- val languages = listOf("Java", "Python", "JavaScript", "Go") 
+ val languages = listOf("Java", "React", "JavaScript", "Go") 
  
 }
 ```
