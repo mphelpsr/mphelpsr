@@ -13,14 +13,12 @@ object **MARCELO** {
 }
 ```
 
-[website]: https://www.caribenordestino.com.br
 [twitter]: https://twitter.com/omarceloramalho
 [instagram]: https://www.instagram.com/omarceloramalho/
 [linkedin]: https://www.linkedin.com/in/marcelo-ramalho-de-oliveira/
 
 #### redes sociais
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
